@@ -117,8 +117,8 @@ export function isFHEInitialized(): boolean {
  * This is a placeholder for future implementation
  */
 export async function decryptUint256(
-  encryptedHandle: string,
-  contractAddress: string
+  _encryptedHandle: string,
+  _contractAddress: string
 ): Promise<string> {
   // TODO: Implement full FHE decryption with Zama KMS
   // For now, return a message indicating encryption is active
