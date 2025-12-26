@@ -271,8 +271,8 @@ export function HiddenNFTApp() {
       
       <div className="hero-section">
         <div className="hero-content">
-          <h1 className="hero-title">Privacy-Preserving NFTs</h1>
-          <p className="hero-subtitle">Mint NFTs with images on Sepolia Testnet</p>
+          <h1 className="hero-title">Private NFT</h1>
+          <p className="hero-subtitle">Create and manage encrypted NFTs on Sepolia</p>
           <p style={{ fontSize: '0.9rem', opacity: 0.9, marginTop: '8px' }}>
             🔗 Real blockchain transactions • 📊 View on Etherscan • 🏗️ Contract: {CONTRACT_ADDRESS.slice(0, 6)}...{CONTRACT_ADDRESS.slice(-4)}
           </p>
