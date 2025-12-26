@@ -191,6 +191,7 @@ body {
   transition: all 0.2s ease;
   resize: vertical;
   min-height: 44px;
+  width: 100%;
 }
 
 .text-input:focus {
@@ -407,7 +408,6 @@ body {
   gap: 10px;
   font-size: 0.9rem;
   font-weight: 500;
-  width: 100%;
 }
 
 .message-box.encrypted {
