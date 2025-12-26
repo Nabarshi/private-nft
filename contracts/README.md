@@ -7,11 +7,11 @@
 ## Contract Details
 
 - **Network**: Ethereum Sepolia Testnet
-- **Contract Address**: `0x20d253d41e676f877b2897d332675A8d5fC11275`
+- **Contract Address**: `0xb23e1c3E307C161bc97cF1540e730e36d98755e2`
 - **FHEVM Version**: v0.10.0
 - **Compiler**: Solidity ^0.8.28
 
-[View on Etherscan](https://sepolia.etherscan.io/address/0x20d253d41e676f877b2897d332675A8d5fC11275)
+[View on Etherscan](https://sepolia.etherscan.io/address/0xb23e1c3E307C161bc97cF1540e730e36d98755e2)
 
 ## Key Features
 
