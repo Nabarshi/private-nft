@@ -407,6 +407,7 @@ body {
   gap: 10px;
   font-size: 0.9rem;
   font-weight: 500;
+  width: 100%;
 }
 
 .message-box.encrypted {

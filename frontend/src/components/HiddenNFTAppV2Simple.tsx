@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { BrowserProvider, Contract } from 'ethers';
 import { Header } from './Header';
 import { ImageUpload } from './ImageUpload';
-import { uploadImage, getImageUrl } from '../utils/imageUpload';
+import { uploadImage } from '../utils/imageUpload';
 import { encryptMessage, initializeFHE, decryptUint256 } from '../utils/fheEncryption';
 import { useSimpleWallet } from '../hooks/useSimpleWallet';
 import { CONTRACT_ADDRESS, CONTRACT_ABI } from '../config/contracts';
@@ -455,7 +455,7 @@ export function HiddenNFTAppV2Simple() {
                     <div key={nft.tokenId} className="nft-item">
                       <div className="nft-image-wrapper">
                         <img
-                          src={getImageUrl(nft.imageUri)}
+                          src={nft.imageUri}
                           alt={`NFT #${nft.tokenId}`}
                           className="nft-image"
                         />
