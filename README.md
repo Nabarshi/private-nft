@@ -1,4 +1,4 @@
-# FHE-NFT - Privacy-Preserving NFTs on Sepolia
+# Private-NFT - Privacy-Preserving NFTs on Sepolia
 
 A fully homomorphic encryption (FHE) enabled NFT platform built with Zama's FHEVM, allowing users to mint NFTs with encrypted messages on Ethereum Sepolia testnet.
 
@@ -13,9 +13,9 @@ A fully homomorphic encryption (FHE) enabled NFT platform built with Zama's FHEV
 
 ## 🚀 Live Demo
 
-Deployed Contract on Sepolia: `0x20d253d41e676f877b2897d332675A8d5fC11275`
+Deployed Contract on Sepolia: `0xb23e1c3E307C161bc97cF1540e730e36d98755e2`
 
-[View on Etherscan](https://sepolia.etherscan.io/address/0x20d253d41e676f877b2897d332675A8d5fC11275)
+[View on Etherscan](https://sepolia.etherscan.io/address/0xb23e1c3E307C161bc97cF1540e730e36d98755e2)
 
 ## 🛠️ Tech Stack
 
@@ -139,7 +139,7 @@ This proves the message is **truly private** on the blockchain!
 ## 📄 Contract Details
 
 - **Network**: Sepolia Testnet (Chain ID: 11155111)
-- **Contract Address**: `0x20d253d41e676f877b2897d332675A8d5fC11275`
+- **Contract Address**: `0xb23e1c3E307C161bc97cF1540e730e36d98755e2`
 - **FHEVM Version**: v0.10.0
 - **Gateway**: Zama Ethereum Config
 
